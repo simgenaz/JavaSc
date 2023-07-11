@@ -56,4 +56,4 @@ let aa = "Simge" + " " + "Naz"; //Stringleri + işaretiyle ayırabiliriz.
 let $ = "Hello World";
 let $$ = 15;
 // dolar işareti çok fazla kullanılan bir kütüphane değildir.
-// Onun yerine Html elementlerini seçmek için kullanıyoruz ve $("p") mesela bu bütün p elementlerini seç demektir.
+// Onun yerine Html elementlerini seçmek için kullanıyoruz ve $("p") mesela bu bütün p elementlerini seç demektir. 
